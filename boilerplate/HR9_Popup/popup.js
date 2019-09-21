@@ -11,6 +11,8 @@ document.addEventListener('DOMContentLoaded', function() {
   var Comp411check = document.getElementById('Comp411');
   var Comp412check = document.getElementById('Comp412');
   var Comp421check = document.getElementById('Comp421');
+  var Donecheck = document.getElementById('Done');
+  var classes = []
 
    
   Comp140check.addEventListener('click', function() {
@@ -19,17 +21,24 @@ document.addEventListener('DOMContentLoaded', function() {
      //const darkColor = rgb(64,123,233)
      //const lightColor = rgb(28,35,128)
      
-     if(curColour === "darkblue") 
+     if(curColour === "dodgerblue") 
      {
-        Comp140check.style.backgroundColor = "dodgerblue";
+        Comp140check.style.backgroundColor = "darkblue";
         
      	//Comp140check.style.backgroundColor = lightColor
+     	if(classes.length > 0)
+     	{
+     		classes.pop();
+     	}
+     	
      }
      else
      {
-     	Comp140check.style.backgroundColor = "darkblue";
+     	Comp140check.style.backgroundColor = "dodgerblue";
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
+     	classes.push("Comp140");
+     	
      } 
 
   }, false);
@@ -40,17 +49,23 @@ document.addEventListener('DOMContentLoaded', function() {
      //const darkColor = rgb(64,123,233)
      //const lightColor = rgb(28,35,128)
      
-     if(curColour === "darkblue") 
+     if(curColour === "dodgerblue") 
      {
-        Comp182check.style.backgroundColor = "dodgerblue";
+        Comp182check.style.backgroundColor = "darkblue";
+        if(classes.length > 0)
+     	{
+     		classes.pop();
+     	}
         
      	//Comp140check.style.backgroundColor = lightColor
      }
      else
      {
-     	Comp182check.style.backgroundColor = "darkblue";
+     	Comp182check.style.backgroundColor = "dodgerblue";
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
+     	classes.push("Comp182");
+     	
      } 
 
   }, false);
@@ -61,17 +76,24 @@ document.addEventListener('DOMContentLoaded', function() {
      //const darkColor = rgb(64,123,233)
      //const lightColor = rgb(28,35,128)
      
-     if(curColour === "darkblue") 
+     if(curColour === "dodgerblue") 
      {
-        Comp215check.style.backgroundColor = "dodgerblue";
+        Comp215check.style.backgroundColor = "darkblue";
         
      	//Comp140check.style.backgroundColor = lightColor
+     	if(classes.length > 0)
+     	{
+     		classes.pop();
+     	}
+     	
      }
      else
      {
-     	Comp215check.style.backgroundColor = "darkblue";
+     	Comp215check.style.backgroundColor = "dodgerblue";
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
+     	classes.push("Comp215");
+     	
      } 
 
   }, false);
@@ -82,17 +104,23 @@ document.addEventListener('DOMContentLoaded', function() {
      //const darkColor = rgb(64,123,233)
      //const lightColor = rgb(28,35,128)
      
-     if(curColour === "darkblue") 
+     if(curColour === "dodgerblue") 
      {
-        Comp310check.style.backgroundColor = "dodgerblue";
+        Comp310check.style.backgroundColor = "darkblue";
         
+        if(classes.length > 0)
+     	{
+     		classes.pop();
+     	}
      	//Comp140check.style.backgroundColor = lightColor
      }
      else
      {
-     	Comp310check.style.backgroundColor = "darkblue";
+     	Comp310check.style.backgroundColor = "dodgerblue";
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
+     	classes.push("Comp310");
+     	
      } 
 
   }, false);
@@ -103,17 +131,23 @@ document.addEventListener('DOMContentLoaded', function() {
      //const darkColor = rgb(64,123,233)
      //const lightColor = rgb(28,35,128)
      
-     if(curColour === "darkblue") 
+     if(curColour === "dodgerblue") 
      {
-        Comp321check.style.backgroundColor = "dodgerblue";
+        Comp321check.style.backgroundColor = "darkblue";
+        if(classes.length > 0)
+     	{
+     		classes.pop();
+     	}
         
      	//Comp140check.style.backgroundColor = lightColor
      }
      else
      {
-     	Comp321check.style.backgroundColor = "darkblue";
+     	Comp321check.style.backgroundColor = "dodgerblue";
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
+     	classes.push("Comp321");
+     	
      } 
 
   }, false);
@@ -124,17 +158,24 @@ document.addEventListener('DOMContentLoaded', function() {
      //const darkColor = rgb(64,123,233)
      //const lightColor = rgb(28,35,128)
      
-     if(curColour === "darkblue") 
+     if(curColour === "dodgerblue") 
      {
-        Comp322check.style.backgroundColor = "dodgerblue";
+        Comp322check.style.backgroundColor = "darkblue";
+        if(classes.length > 0)
+     	{
+     		classes.pop();
+     	}
+        
         
      	//Comp140check.style.backgroundColor = lightColor
      }
      else
      {
-     	Comp322check.style.backgroundColor = "darkblue";
+     	Comp322check.style.backgroundColor = "dodgerblue";
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
+     	classes.push("Comp322");
+     	
      } 
 
   }, false);
@@ -145,17 +186,25 @@ document.addEventListener('DOMContentLoaded', function() {
      //const darkColor = rgb(64,123,233)
      //const lightColor = rgb(28,35,128)
      
-     if(curColour === "darkblue") 
+     if(curColour === "dodgerblue") 
      {
-        Comp382check.style.backgroundColor = "dodgerblue";
+        Comp382check.style.backgroundColor = "darkblue";
+        
+        if(classes.length > 0)
+     	{
+     		classes.pop();
+     	}
         
      	//Comp140check.style.backgroundColor = lightColor
      }
      else
      {
-     	Comp382check.style.backgroundColor = "darkblue";
+     	Comp382check.style.backgroundColor = "dodgerblue";
+     	
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
+     	classes.push("Comp382");
+     	
      } 
 
 
@@ -168,17 +217,24 @@ document.addEventListener('DOMContentLoaded', function() {
      //const darkColor = rgb(64,123,233)
      //const lightColor = rgb(28,35,128)
      
-     if(curColour === "darkblue") 
+     if(curColour === "dodgerblue") 
      {
-        Comp411check.style.backgroundColor = "dodgerblue";
+        Comp411check.style.backgroundColor = "darkblue";
+        if(classes.length > 0)
+     	{
+     		classes.pop();
+     	}
+        
         
      	//Comp140check.style.backgroundColor = lightColor
      }
      else
      {
-     	Comp411check.style.backgroundColor = "darkblue";
+     	Comp411check.style.backgroundColor = "dodgerblue";
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
+     	classes.push("Comp411");
+     	
      } 
 
   }, false);
@@ -189,17 +245,24 @@ document.addEventListener('DOMContentLoaded', function() {
      //const darkColor = rgb(64,123,233)
      //const lightColor = rgb(28,35,128)
      
-     if(curColour === "darkblue") 
+     if(curColour === "dodgerblue") 
      {
-        Comp412check.style.backgroundColor = "dodgerblue";
+        Comp412check.style.backgroundColor = "darkblue";
+        if(classes.length > 0)
+     	{
+     		classes.pop();
+     	}
+        
         
      	//Comp140check.style.backgroundColor = lightColor
      }
      else
      {
-     	Comp412check.style.backgroundColor = "darkblue";
+     	Comp412check.style.backgroundColor = "dodgerblue";
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
+     	classes.push("Comp412");
+     	
      } 
 
   }, false);
@@ -210,19 +273,34 @@ document.addEventListener('DOMContentLoaded', function() {
      //const darkColor = rgb(64,123,233)
      //const lightColor = rgb(28,35,128)
      
-     if(curColour === "darkblue") 
+     if(curColour === "dodgerblue") 
      {
-        Comp421check.style.backgroundColor = "dodgerblue";
+        Comp421check.style.backgroundColor = "darkblue";
+        
+        if(classes.length > 0)
+     	{
+     		classes.pop();
+     	}
         
      	//Comp140check.style.backgroundColor = lightColor
      }
      else
      {
-     	Comp421check.style.backgroundColor = "darkblue";
+     	Comp421check.style.backgroundColor = "dodgerblue";
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
+     	classes.push("Comp421");
+     	
      } 
 
   }, false);
+
+
+  Donecheck.addEventListener('click', function() {
+     
+     window.open('https://calendar.google.com/calendar/r');
+
+  }, false);
+
   
 }, false);
