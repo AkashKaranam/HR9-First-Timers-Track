@@ -2,6 +2,8 @@ body {
 	height: 1000px;
 	width: 500px;
   text-align: center
+  background-image:background.png;
+  background-color: rgb(230,230,250);
 }
 
 h1 {
@@ -9,7 +11,7 @@ h1 {
 	font-size: 24px;
 }
 #Comp140 {
-  background-color: rgb(28,35,128); 
+  background-color: darkblue;
   border: none;
   color: white;
   height: 40px;
@@ -24,7 +26,7 @@ h1 {
   left: 35%;
 }
 #Comp182 {
-  background-color: rgb(28,35,128); 
+  background-color: darkblue; 
   border: none;
   color: white;
   height: 40px;
@@ -39,7 +41,7 @@ h1 {
   left: 35%;
 }
 #Comp215 {
-  background-color: rgb(28,35,128); 
+  background-color: darkblue; 
   border: none;
   color: white;
   height: 40px;
@@ -54,7 +56,7 @@ h1 {
   left: 35%;
 }
 #Comp310 {
-  background-color: rgb(28,35,128); 
+  background-color: darkblue; 
   border: none;
   color: white;
   height: 40px;
@@ -69,7 +71,7 @@ h1 {
   left: 35%;
 }
 #Comp321 {
-  background-color: rgb(28,35,128); 
+  background-color: darkblue; 
   border: none;
   color: white;
   height: 40px;
@@ -84,7 +86,7 @@ h1 {
   left: 35%;
 }
 #Comp322 {
-  background-color: rgb(28,35,128); 
+  background-color: darkblue; 
   border: none;
   color: white;
   height: 40px;
@@ -100,7 +102,7 @@ h1 {
 
 }
 #Comp382 {
-  background-color: rgb(28,35,128); 
+  background-color: darkblue; 
   border: none;
   color: white;
   height: 40px;
@@ -115,7 +117,7 @@ h1 {
   left:35%;
 }
 #Comp411 {
-  background-color: rgb(28,35,128); 
+  background-color: darkblue; 
   border: none;
   color: white;
   height: 40px;
@@ -130,7 +132,7 @@ h1 {
   left:35%;
 }
 #Comp412 {
-  background-color: rgb(28,35,128); 
+  background-color: darkblue; 
   border: none;
   color: white;
   height: 40px;
@@ -145,7 +147,7 @@ h1 {
   left:35%;
 }
 #Comp421 {
-  background-color: rgb(28,35,128); 
+  background-color: darkblue; 
   border: none;
   color: white;
   height: 40px;
@@ -159,4 +161,20 @@ h1 {
   top: 100%;
   left:35%;
 }
+#Done {
+  background-color: darkblue; 
+  border: none;
+  color: white;
+  height: 40px;
+  width: 155px;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+  position: absolute;
+  top: 110%;
+  left:35%;
+}
+
 
