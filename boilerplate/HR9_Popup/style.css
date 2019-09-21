@@ -1,11 +1,12 @@
 body {
-	height: 100px;
-	width: 250px;
+	height: 1000px;
+	width: 500px;
+  text-align: center
 }
 
 h1 {
 	text-align: center;
-	font-size: 20px;
+	font-size: 24px;
 }
 
 #checkPage {
@@ -15,6 +16,142 @@ h1 {
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  display: flex;
   font-size: 16px;
+  position: absolute;
+  top: 10%;
+  left: 29%;
+
 }
+#Comp140 {
+  background-color: rgb(182, 77, 80); 
+  border: none;
+  color: white;
+  padding: 10px 23px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+  position: absolute;
+  top: 20%;
+  left: 35%;
+}
+#Comp182 {
+  background-color: rgb(182, 77, 80); 
+  border: none;
+  color: white;
+  padding: 10px 23px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+  position: absolute;
+  top: 30%;
+  left: 35%;
+}
+#Comp215 {
+  background-color: rgb(182, 77, 80); 
+  border: none;
+  color: white;
+  padding: 10px 23px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+  position: absolute;
+  top: 40%;
+  left: 35%;
+}
+#Comp310 {
+  background-color: rgb(182, 77, 80); 
+  border: none;
+  color: white;
+  padding: 10px 23px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+  position: absolute;
+  top: 50%;
+  left: 35%;
+}
+#Comp321 {
+  background-color: rgb(182, 77, 80); 
+  border: none;
+  color: white;
+  padding: 10px 23px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+  position: absolute;
+  top: 60%;
+  left: 35%;
+}
+#Comp322 {
+  background-color: rgb(182, 77, 80); 
+  border: none;
+  color: white;
+  padding: 10px 23px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+  position: absolute;
+  top: 70%;
+  left: 35%;
+
+}
+#Comp382 {
+  background-color: rgb(182, 77, 80); 
+  border: none;
+  color: white;
+  padding: 10px 23px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+  position: absolute;
+  top: 80%;
+  left:35%;
+}
+#Comp411 {
+  background-color: rgb(182, 77, 80); 
+  border: none;
+  color: white;
+  padding: 10px 23px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+  position: absolute;
+  top: 90%;
+  left:35%;
+}
+#Comp412 {
+  background-color: rgb(182, 77, 80); 
+  border: none;
+  color: white;
+  padding: 10px 23px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+  position: absolute;
+  top: 100%;
+  left:35%;
+}
+#Comp421 {
+  background-color: rgb(182, 77, 80); 
+  border: none;
+  color: white;
+  padding: 10px 23px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+  position: absolute;
+  top: 110%;
+  left:35%;
+}
+
