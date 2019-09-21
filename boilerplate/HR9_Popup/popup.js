@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function() {
      	Comp140check.style.backgroundColor = "dodgerblue";
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
-     	dict["Comp140"] = "Tuesday3-4PM,Wednesday7-8PM"
+     	dict["Comp140"] = "Monday 3-4PM,Tuesday 10-11AM";
      	
      	
      } 
@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function() {
      	Comp182check.style.backgroundColor = "dodgerblue";
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
-     	dict["Comp182"] = "Tuesday3-4PM,Wednesday7-8PM"
+     	dict["Comp182"] = "Tuesday 3-5PM,Wednesday 1-1:50PM";
      	
      	
      } 
@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
      	Comp215check.style.backgroundColor = "dodgerblue";
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
-     	dict["Comp215"] = "Tuesday3-4PM,Wednesday7-8PM"
+     	dict["Comp215"] = "Friday 3-5 PM";
      	
      	
      } 
@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', function() {
      {
      	Comp310check.style.backgroundColor = "dodgerblue";
      	//Comp140check.style.backgroundColor = darkColor
-     	dict["Comp310"] = "Tuesday3-4PM,Wednesday7-8PM"
+     	dict["Comp310"] = "Tuesday 1-2:30 PM, Wednesday 1-4 PM, Friday 1-3 PM";
      	
      } 
 
@@ -141,7 +141,7 @@ document.addEventListener('DOMContentLoaded', function() {
      	Comp321check.style.backgroundColor = "dodgerblue";
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
-     	dict["Comp321"] = "Tuesday3-4PM,Wednesday7-8PM"
+     	dict["Comp321"] = "Wednesday 4:45-5:45PM";
      	
      	
      } 
@@ -167,7 +167,7 @@ document.addEventListener('DOMContentLoaded', function() {
      	Comp322check.style.backgroundColor = "dodgerblue";
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
-     	dict["Comp322"] = "Tuesday3-4PM,Wednesday7-8PM"
+     	dict["Comp322"] = "Monday 2-3PM, Tuesday 3-4PM";
      	
      } 
 
@@ -193,7 +193,7 @@ document.addEventListener('DOMContentLoaded', function() {
      	
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
-     	dict["Comp382"] = "Tuesday3-4PM,Wednesday7-8PM"
+     	dict["Comp382"] = "Tuesday 3-4PM,Wednesday 3-4PM";
      	
      } 
 
@@ -220,7 +220,7 @@ document.addEventListener('DOMContentLoaded', function() {
      	Comp411check.style.backgroundColor = "dodgerblue";
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
-     	dict["Comp411"] = "Tuesday3-4PM,Wednesday7-8PM"
+     	dict["Comp411"] = "Monday 9-11AM, Wednesday 9-11AM, Friday 9-11AM";
      	
      } 
 
@@ -245,7 +245,7 @@ document.addEventListener('DOMContentLoaded', function() {
      	Comp412check.style.backgroundColor = "dodgerblue";
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
-     	dict["Comp412"] = "Tuesday3-4PM,Wednesday7-8PM"
+     	dict["Comp412"] = "Wednesday 2-3PM"
      	
      } 
 
@@ -270,7 +270,7 @@ document.addEventListener('DOMContentLoaded', function() {
      	Comp421check.style.backgroundColor = "dodgerblue";
      	//Comp140check.style.backgroundColor = darkColor
      	// var curColour = rgb(64,123,233)
-     	dict["Comp421"] = "Tuesday3-4PM,Wednesday7-8PM"
+     	dict["Comp421"] = "Tuesday 10-11 AM"
      	
      } 
 
