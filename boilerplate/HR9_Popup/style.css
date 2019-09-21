@@ -8,27 +8,29 @@ h1 {
 	text-align: center;
 	font-size: 24px;
 }
-
-#checkPage {
-  background-color: rgb(182, 77, 80); 
+#Comp140 {
+  background-color: rgb(28,35,128); 
   border: none;
   color: white;
-  padding: 15px 32px;
-  text-align: center;
+  height: 40px;
+  width: 155px;
+  align-items: center;
+  justify-content: center;
   text-decoration: none;
   display: flex;
   font-size: 16px;
   position: absolute;
   top: 10%;
-  left: 29%;
-
+  left: 35%;
 }
-#Comp140 {
-  background-color: rgb(182, 77, 80); 
+#Comp182 {
+  background-color: rgb(28,35,128); 
   border: none;
   color: white;
-  padding: 10px 23px;
-  text-align: center;
+  height: 40px;
+  width: 155px;
+  align-items: center;
+  justify-content: center;
   text-decoration: none;
   display: flex;
   font-size: 16px;
@@ -36,12 +38,14 @@ h1 {
   top: 20%;
   left: 35%;
 }
-#Comp182 {
-  background-color: rgb(182, 77, 80); 
+#Comp215 {
+  background-color: rgb(28,35,128); 
   border: none;
   color: white;
-  padding: 10px 23px;
-  text-align: center;
+  height: 40px;
+  width: 155px;
+  align-items: center;
+  justify-content: center;
   text-decoration: none;
   display: flex;
   font-size: 16px;
@@ -49,12 +53,14 @@ h1 {
   top: 30%;
   left: 35%;
 }
-#Comp215 {
-  background-color: rgb(182, 77, 80); 
+#Comp310 {
+  background-color: rgb(28,35,128); 
   border: none;
   color: white;
-  padding: 10px 23px;
-  text-align: center;
+  height: 40px;
+  width: 155px;
+  align-items: center;
+  justify-content: center;
   text-decoration: none;
   display: flex;
   font-size: 16px;
@@ -62,12 +68,14 @@ h1 {
   top: 40%;
   left: 35%;
 }
-#Comp310 {
-  background-color: rgb(182, 77, 80); 
+#Comp321 {
+  background-color: rgb(28,35,128); 
   border: none;
   color: white;
-  padding: 10px 23px;
-  text-align: center;
+  height: 40px;
+  width: 155px;
+  align-items: center;
+  justify-content: center;
   text-decoration: none;
   display: flex;
   font-size: 16px;
@@ -75,39 +83,45 @@ h1 {
   top: 50%;
   left: 35%;
 }
-#Comp321 {
-  background-color: rgb(182, 77, 80); 
+#Comp322 {
+  background-color: rgb(28,35,128); 
   border: none;
   color: white;
-  padding: 10px 23px;
-  text-align: center;
+  height: 40px;
+  width: 155px;
+  align-items: center;
+  justify-content: center;
   text-decoration: none;
   display: flex;
   font-size: 16px;
   position: absolute;
   top: 60%;
   left: 35%;
+
 }
-#Comp322 {
-  background-color: rgb(182, 77, 80); 
+#Comp382 {
+  background-color: rgb(28,35,128); 
   border: none;
   color: white;
-  padding: 10px 23px;
-  text-align: center;
+  height: 40px;
+  width: 155px;
+  align-items: center;
+  justify-content: center;
   text-decoration: none;
   display: flex;
   font-size: 16px;
   position: absolute;
   top: 70%;
-  left: 35%;
-
+  left:35%;
 }
-#Comp382 {
-  background-color: rgb(182, 77, 80); 
+#Comp411 {
+  background-color: rgb(28,35,128); 
   border: none;
   color: white;
-  padding: 10px 23px;
-  text-align: center;
+  height: 40px;
+  width: 155px;
+  align-items: center;
+  justify-content: center;
   text-decoration: none;
   display: flex;
   font-size: 16px;
@@ -115,12 +129,14 @@ h1 {
   top: 80%;
   left:35%;
 }
-#Comp411 {
-  background-color: rgb(182, 77, 80); 
+#Comp412 {
+  background-color: rgb(28,35,128); 
   border: none;
   color: white;
-  padding: 10px 23px;
-  text-align: center;
+  height: 40px;
+  width: 155px;
+  align-items: center;
+  justify-content: center;
   text-decoration: none;
   display: flex;
   font-size: 16px;
@@ -128,30 +144,19 @@ h1 {
   top: 90%;
   left:35%;
 }
-#Comp412 {
-  background-color: rgb(182, 77, 80); 
+#Comp421 {
+  background-color: rgb(28,35,128); 
   border: none;
   color: white;
-  padding: 10px 23px;
-  text-align: center;
+  height: 40px;
+  width: 155px;
+  align-items: center;
+  justify-content: center;
   text-decoration: none;
   display: flex;
   font-size: 16px;
   position: absolute;
   top: 100%;
-  left:35%;
-}
-#Comp421 {
-  background-color: rgb(182, 77, 80); 
-  border: none;
-  color: white;
-  padding: 10px 23px;
-  text-align: center;
-  text-decoration: none;
-  display: flex;
-  font-size: 16px;
-  position: absolute;
-  top: 110%;
   left:35%;
 }
 

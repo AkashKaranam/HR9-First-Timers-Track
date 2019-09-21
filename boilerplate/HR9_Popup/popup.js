@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', function() {
 
-  var checkPageButton = document.getElementById('checkPage');
+  var Comp140check = document.getElementById('Comp140');
 
-  checkPageButton.addEventListener('click', function() {
+  Comp140check.addEventListener('click', function() {
      window.open('https://hack.rice.edu/');
   }, false);
   
